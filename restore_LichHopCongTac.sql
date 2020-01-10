@@ -1,0 +1,3 @@
+RESTORE DATABASE LichHopCongTac
+FROM DISK = 'd:\bk\LichHop_DB_Backup_20191108_09h36.bak'
+WITH REPLACE

@@ -1,0 +1,3 @@
+RESTORE DATABASE LichHopCongTac
+FROM DISK = 'C:\bkNPT\bk.bak'
+WITH REPLACE
